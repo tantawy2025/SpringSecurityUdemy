@@ -1,2 +1,8 @@
-com\eazybytes\springsecuritybasic\controller\WelcomeController.class
+com\eazybytes\springsecuritybasic\controller\AccountController.class
+com\eazybytes\springsecuritybasic\controller\BalanceController.class
+com\eazybytes\springsecuritybasic\service\ProjectSecurityConfig.class
 com\eazybytes\springsecuritybasic\SpringsecuritybasicApplication.class
+com\eazybytes\springsecuritybasic\controller\LoansController.class
+com\eazybytes\springsecuritybasic\controller\NoticesController.class
+com\eazybytes\springsecuritybasic\controller\CardsController.class
+com\eazybytes\springsecuritybasic\controller\ContactController.class
