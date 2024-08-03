@@ -19,7 +19,7 @@ public class ProjectSecurityConfig {
                                         "/myLoans/**", "/myCards/**")
                                 .authenticated()
 
-                                .requestMatchers("/contact/**")
+                                .requestMatchers("/contact/**","/notices/**")
                                 .permitAll()
                 ).formLogin(Customizer.withDefaults())
                 .httpBasic(Customizer.withDefaults());
