@@ -1,4 +1,4 @@
-package com.eazybytes.springsecuritybasic.service;
+package com.eazybytes.springsecuritybasic.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
