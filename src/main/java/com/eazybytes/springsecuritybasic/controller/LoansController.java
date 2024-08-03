@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @Data
 public class LoansController {
 
-    @GetMapping("/myLoanss")
+    @GetMapping("/myLoans")
     public ResponseEntity<String> getLoansDetails(){
         return ResponseEntity.ok("Here are the Loans details from the DB");
     }
